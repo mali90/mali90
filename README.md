@@ -34,7 +34,7 @@ Self-hosted Apify → n8n → Claude → Postgres system that snapshots trends, 
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/ali-mustafa) · [jollydotsgame.com](https://jollydotsgame.com) · Jolly Dots on [YouTube](https://www.youtube.com/@JollyDots/shorts), [Instagram](https://www.instagram.com/_jolly_dots/) and [TikTok](https://www.tiktok.com/@jolly_dots)##
+[LinkedIn](https://linkedin.com/in/ali-mustafa) · [jollydotsgame.com](https://jollydotsgame.com) · Jolly Dots on [YouTube](https://www.youtube.com/@JollyDots/shorts), [Instagram](https://www.instagram.com/_jolly_dots/) and [TikTok](https://www.tiktok.com/@jolly_dots)
 
 <!--
 **mali90/mali90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
