@@ -13,7 +13,7 @@ One line in, a multi-shot short film out. Eight LLM agents (Showrunner → Story
 - Local-first, with a price on every render button
 - Node.js, React + TypeScript, FSL-1.1 (converts to MIT after two years)
 
-### 🎮 Jolly Dots: World of Adventure
+### 🎮 [Jolly Dots: World of Adventure](https://jollydotsgame.com)
 A 2D physics puzzle game for Android and iOS, built solo in Unity 6. Three control mechanics, each with its own world: aim and ricochet in the West, draw walls on the Farm, grab and fling at the Beach.
 
 - C#, VContainer DI, typed message broker, Addressables, Firebase, AdMob, Unity IAP, Play Games Services
@@ -34,7 +34,7 @@ Self-hosted Apify → n8n → Claude → Postgres system that snapshots trends, 
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/ali-mustafa) · [jollydotsgame.com](https://jollydotsgame.com) · Jolly Dots on [YouTube](https://www.youtube.com/@JollyDots/shorts), [Instagram](https://www.instagram.com/_jolly_dots/) and [TikTok](https://www.tiktok.com/@jolly_dots)## Hi there 👋
+[LinkedIn](https://linkedin.com/in/ali-mustafa) · [jollydotsgame.com](https://jollydotsgame.com) · Jolly Dots on [YouTube](https://www.youtube.com/@JollyDots/shorts), [Instagram](https://www.instagram.com/_jolly_dots/) and [TikTok](https://www.tiktok.com/@jolly_dots)##
 
 <!--
 **mali90/mali90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
